@@ -1,8 +1,10 @@
 # vue_music
 
+> 后端接口采用 ： [NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%ae%89%e8%a3%85&utm_medium=social&utm_oi=776922066283675648) , 感谢大佬！！
+
 ## Project setup
 ```
-yarn install
+bash creact_base_api.sh
 ```
 
 ### Compiles and hot-reloads for development
